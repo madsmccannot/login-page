@@ -120,6 +120,11 @@ button {
   font-weight: 500;
 }
 
+button:hover {
+  background: rgba(255, 255, 255, 0.5);
+  transition: .3s;
+}
+
 .register-link {
   font-size: .9em;
   color: #fff;
